@@ -20,7 +20,7 @@
 
 ### Load Balancing in Oracle RAC
 
-
+### Troubleshooting / Debugging
 
 
 # PostgreSQL
@@ -32,6 +32,9 @@
 ### Functions
 
 ### Packages
+
+### Troubleshooting / Debugging
+
 
 
 ## PostgreSQL

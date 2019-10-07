@@ -1,6 +1,6 @@
 **Basics**
 
-[Java SE tutorial](https://docs.oracle.com/javase/tutorial/)
+[Oracle Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)
 
 
 **Serialization**

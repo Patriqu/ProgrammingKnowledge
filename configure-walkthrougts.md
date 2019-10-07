@@ -1,8 +1,8 @@
-### Intellij Idea
+# Intellij Idea
 
 ## Required Plugins  
 
-# Static Analysis  
+### Static Analysis  
 - Codota (AI code complete and suggestions)
 - SonarLint
 - FindBugs-IDEA
@@ -11,7 +11,7 @@
 - ESLint
 - JSHint
 
-# Productivity
+### Productivity
 - CodeGlance
 - Key Promoter X
 - Pomodoro-tm
@@ -25,10 +25,10 @@
 - Database Navigator
 - HotSwapAgent (to test - Agent provides real hotswap functionality together with DCEVM which extends JVM class redefinition functionality)
 
-# Java Enhancements
+### Java Enhancements
 - Lombok
 
-# Source Control
+### Source Control
 - GitToolBox
 - Bitbucket Linky (easy navigation and interaction with Attlassian Bitbucket)
 
@@ -36,9 +36,9 @@
 
 ## Apache Tomcat
 
-# Configure Tomcat 9
+### Configure Tomcat 9
 
-# Add artifacts
+### Add artifacts
 
-# Hot Swap
+### Hot Swap
 

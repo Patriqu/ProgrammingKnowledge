@@ -1,10 +1,14 @@
-[Basics]
+**Basics**
 
 Java SE tutorial - https://docs.oracle.com/javase/tutorial/
 
 
-[Serialization]
-[ORM]
-[Security]
-[Performance]
-[JVM]
+**Serialization**
+
+**ORM**
+
+**Security**
+
+**Performance**
+
+**JVM**

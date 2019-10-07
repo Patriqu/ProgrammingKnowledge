@@ -1,3 +1,5 @@
+[Wiki Category (PL)](https://pl.wikipedia.org/wiki/Kategoria:Wzorce_projektowe)  
+
 **RAII (Resource Acquisition Is Initialization)**
 
 [wikipedia](https://pl.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization)

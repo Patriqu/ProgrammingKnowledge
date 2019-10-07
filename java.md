@@ -2,7 +2,7 @@
 
 [Oracle Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)
 
-**Web Application Servers
+**Web Application Servers**
 
 Apache httpd
 Apache TomEE

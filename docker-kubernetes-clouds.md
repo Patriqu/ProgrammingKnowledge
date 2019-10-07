@@ -4,6 +4,7 @@
 [Docker control with systemd](https://docs.docker.com/config/daemon/systemd/)  
 
 **Elasticsearch**  
+[Getting Started with Elasticsearch - Edureka - YouTube](https://www.youtube.com/watch?v=1EnvkPf7t6Y)  
 [Install Elasticsearch with Docker](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/docker.html)  
 
 **Kubernetes**

@@ -10,4 +10,7 @@
 
 
 
-**AWS**
+**AWS - Amazon Web Services**  
+
+[Getting Started](https://aws.amazon.com/getting-started/)  
+[Use Cases](https://aws.amazon.com/getting-started/use-cases/)  

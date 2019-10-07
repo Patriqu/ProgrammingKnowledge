@@ -23,6 +23,10 @@ Jetty
 [HttpComponents Client - Github](https://github.com/apache/httpcomponents-client)  
 [HttpComponents Core - GitHub](https://github.com/apache/httpcomponents-core)  
 
+**Date and Time**
+
+[SimpleDateFormat - Customizing Datetime Formats](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)  
+
 **Serialization**
 
 **ORM**

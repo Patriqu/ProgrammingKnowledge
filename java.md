@@ -20,12 +20,13 @@ Jetty
 
 **HTTP messaging**
 
-[HttpComponents Client - Github](https://github.com/apache/httpcomponents-client)  
-[HttpComponents Core - GitHub](https://github.com/apache/httpcomponents-core)  
+[HttpComponents Client (Github)](https://github.com/apache/httpcomponents-client)  
+[HttpComponents Core (GitHub)](https://github.com/apache/httpcomponents-core)  
 
 **Date and Time**
 
-[SimpleDateFormat - Customizing Datetime Formats](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)  
+[SimpleDateFormat - Customizing Datetime Formats (Oracle Docs)](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)  
+[Date format parse exception (StackOverflow)](https://stackoverflow.com/questions/19861642/date-format-parse-exception-eee-mmm-dd-hhmmss-z-yyyy)  
 
 **Serialization**
 

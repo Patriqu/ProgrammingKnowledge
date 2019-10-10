@@ -1,14 +1,22 @@
 **Basics**
 
-[Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)  
-[Java EE 7 tutorial](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)
+[How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)  
+
+[Java Magazine - old format](http://www.javamagazine.mozaicreader.com/#&pageSet=0&page=0&contentItem=0)  
+[Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)
+
+**API Specifications**  
 
 [Java Standard Edition 8 - API Specification](https://docs.oracle.com/javase/8/docs/api/)  
 [Java EE 7 - Specification APIs](https://docs.oracle.com/javaee/7/api/toc.htm)  
-[Java Standard Edition & Java Development Kit Version 13 - API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)
+[Java Standard Edition & Java Development Kit Version 13 - API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)  
 
-[How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)
+**Tutorials**  
 
+[Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)  
+[Java EE 7 tutorial](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)  
+
+[Java Generics and Collections - tutorial](https://www.codejava.net/java-core/collections)  
 
 **Web Application Servers**
 

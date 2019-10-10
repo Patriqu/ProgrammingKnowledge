@@ -13,7 +13,7 @@
 [Java Standard Edition & Java Development Kit Version 13](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)  
 
 [Spring Boot Docs 2.1.9.RELEASE API](https://docs.spring.io/spring-boot/docs/current/api/)  
-
+[Spring Documentations List](https://spring.io/docs/reference)  
 
 **Tutorials**  
 

@@ -16,6 +16,7 @@
 **Tutorials**  
 
 [Java SE - Glossary of Terms](https://docs.oracle.com/javase/tutorial/information/glossary.html)  
+[Oracle Glossary](https://www.oracle.com/technetwork/java/glossary-135216.html)  
 [Glossary of Java and Related Terms [Barnes]](https://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)  
 
 [Java Standard Edition](https://docs.oracle.com/javase/tutorial/)  

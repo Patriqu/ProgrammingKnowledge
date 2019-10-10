@@ -1,6 +1,11 @@
 **Basics**
 
-[Oracle Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)
+[Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)  
+[Java EE 7 tutorial](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)
+
+[Java Standard Edition 8 - API Specification](https://docs.oracle.com/javase/8/docs/api/)  
+[Java EE 7 - Specification APIs](https://docs.oracle.com/javaee/7/api/toc.htm)  
+[Java Standard Edition & Java Development Kit Version 13 - API Specification](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)
 
 [How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)
 

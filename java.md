@@ -15,6 +15,8 @@
 
 **Tutorials**  
 
+[Java SE - Glossary of Terms](https://docs.oracle.com/javase/tutorial/information/glossary.html)  
+
 [Java Standard Edition](https://docs.oracle.com/javase/tutorial/)  
 [Java EE 7](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)  
 

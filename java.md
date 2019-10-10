@@ -16,7 +16,7 @@
 **Tutorials**  
 
 [Java Standard Edition](https://docs.oracle.com/javase/tutorial/)  
-[Java EE 7(http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)  
+[Java EE 7](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JEETT)  
 
 [Java Generics and Collections](https://www.codejava.net/java-core/collections)  
 

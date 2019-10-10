@@ -2,6 +2,9 @@
 
 [Oracle Java Standard Edition tutorial](https://docs.oracle.com/javase/tutorial/)
 
+[How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)
+
+
 **Web Application Servers**
 
 [Apache httpd](https://github.com/apache/httpd)  

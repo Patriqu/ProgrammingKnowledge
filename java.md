@@ -33,7 +33,6 @@
 [Why are Java Spring and JAVA EE so complicated?](https://www.quora.com/Why-are-Java-Spring-and-JAVA-EE-so-complicated)  
 [Why should I prefer Java EE over Spring Boot?](https://www.quora.com/Why-should-I-prefer-Java-EE-over-Spring-Boot)  
 
-
 **Web Application Servers**
 
 [Apache httpd](https://github.com/apache/httpd)  
@@ -68,7 +67,11 @@ Jetty
 
 [jaxrs-api VS jsr311-api VS javax.ws.rs-api VS jersey-core VS jaxrs-ri](https://stackoverflow.com/questions/32106428/jaxrs-api-vs-jsr311-api-vs-javax-ws-rs-api-vs-jersey-core-vs-jaxrs-ri#32109009)  
 
-**Serialization**
+**Serialization & Marshalling**  
+
+[Jackson Project Home @GitHub](https://github.com/FasterXML/jackson)  
+
+[What is the difference between Serialization and Marshaling?](https://stackoverflow.com/questions/770474/what-is-the-difference-between-serialization-and-marshaling)  
 
 **ORM**
 

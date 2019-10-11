@@ -26,6 +26,11 @@
 
 [Java Generics and Collections](https://www.codejava.net/java-core/collections)  
 
+[Differences between JavaEE and Spring Framework](https://www.quora.com/What-are-the-differences-between-Java-EE-and-Spring?share=1)  
+[Is it true that Spring Framework and Java EE are competitors?](https://www.quora.com/Is-it-true-that-Spring-Framework-and-Java-EE-are-competitors)  
+[Why are Java Spring and JAVA EE so complicated?](https://www.quora.com/Why-are-Java-Spring-and-JAVA-EE-so-complicated)  
+[Why should I prefer Java EE over Spring Boot?](https://www.quora.com/Why-should-I-prefer-Java-EE-over-Spring-Boot)  
+
 
 **Web Application Servers**
 

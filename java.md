@@ -70,6 +70,7 @@ Jetty
 **Serialization & Marshalling**  
 
 [Jackson Project Home @GitHub](https://github.com/FasterXML/jackson)  
+[Jackson - Tutorialspoint Quick Guide](https://www.tutorialspoint.com/jackson/jackson_quick_guide.htm)  
 
 [What is the difference between Serialization and Marshaling?](https://stackoverflow.com/questions/770474/what-is-the-difference-between-serialization-and-marshaling)  
 

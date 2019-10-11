@@ -9,8 +9,10 @@
 **API Specifications**  
 
 [Java Standard Edition 8](https://docs.oracle.com/javase/8/docs/api/)  
-[Java EE 7](https://docs.oracle.com/javaee/7/api/toc.htm)  
 [Java Standard Edition & Java Development Kit Version 13](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)  
+
+[Java EE 7](https://docs.oracle.com/javaee/7/api/toc.htm)  
+[Jakarta EE 8 - API Specifications list](https://jakarta.ee/specifications/)  
 
 [Spring Boot - Current API Documentation](https://docs.spring.io/spring-boot/docs/current/api/)  
 [Spring Documentations List](https://spring.io/docs/reference)  

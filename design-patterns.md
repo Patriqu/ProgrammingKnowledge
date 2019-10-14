@@ -1,4 +1,4 @@
-Wiki Category [[PL]](https://pl.wikipedia.org/wiki/Kategoria:Wzorce_projektowe) [[EN]](https://en.wikipedia.org/wiki/Category:Software_design_patterns)  
+**Wiki Category** [[PL]](https://pl.wikipedia.org/wiki/Kategoria:Wzorce_projektowe) [[EN]](https://en.wikipedia.org/wiki/Category:Software_design_patterns)  
 
 
 **RAII (Resource Acquisition Is Initialization)**

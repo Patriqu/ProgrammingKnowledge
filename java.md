@@ -6,6 +6,7 @@
 [Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)  
 
 [Java Design Patterns - GitHub](https://github.com/iluwatar/java-design-patterns)  
+[Java Design Patterns - List](https://java-design-patterns.com/patterns)  
 
 **Portals about Java Programming**  
 

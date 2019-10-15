@@ -5,6 +5,9 @@
 [Java Magazine - old format](http://www.javamagazine.mozaicreader.com/#&pageSet=0&page=0&contentItem=0)  
 [Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)
 
+**Portals about Java Programming**  
+[Java Dev Journal - guides and interview questions](https://www.javadevjournal.com/)  
+[DZone](https://dzone.com/)  
 
 **API Specifications**  
 

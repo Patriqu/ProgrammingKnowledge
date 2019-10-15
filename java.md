@@ -71,6 +71,8 @@ Jetty
 
 [jaxrs-api VS jsr311-api VS javax.ws.rs-api VS jersey-core VS jaxrs-ri](https://stackoverflow.com/questions/32106428/jaxrs-api-vs-jsr311-api-vs-javax-ws-rs-api-vs-jersey-core-vs-jaxrs-ri#32109009)  
 
+[Spring HATEOAS - JavaDevJournal](https://www.javadevjournal.com/spring/spring-hateoas/)  
+
 **Serialization & Marshalling**  
 
 [Jackson Project Home @GitHub](https://github.com/FasterXML/jackson)  

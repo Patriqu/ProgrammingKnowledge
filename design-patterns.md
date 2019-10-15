@@ -7,4 +7,8 @@
 
 **Lazy Initialization**
 
-[C++](https://cpp-polska.pl/post/pozna-inicjalizacja-w-c)
+[C++](https://cpp-polska.pl/post/pozna-inicjalizacja-w-c)  
+
+**REST API**  
+
+[Actual examples for HATEOAS (REST-architecture) - StackOverflow](https://stackoverflow.com/questions/1139095/actual-examples-for-hateoas-rest-architecture)  

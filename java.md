@@ -6,6 +6,7 @@
 [Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)
 
 **Portals about Java Programming**  
+
 [Java Dev Journal - guides and interview questions](https://www.javadevjournal.com/)  
 [DZone](https://dzone.com/)  
 

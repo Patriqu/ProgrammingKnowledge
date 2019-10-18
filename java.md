@@ -42,6 +42,8 @@
 [Why are Java Spring and JAVA EE so complicated?](https://www.quora.com/Why-are-Java-Spring-and-JAVA-EE-so-complicated)  
 [Why should I prefer Java EE over Spring Boot?](https://www.quora.com/Why-should-I-prefer-Java-EE-over-Spring-Boot)  
 
+[What are the main disadvantages of Java Server Faces 2.0](https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0)  
+
 **Web Application Servers**
 
 [Apache httpd](https://github.com/apache/httpd)  

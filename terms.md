@@ -8,3 +8,7 @@ Representational state transfer is a software architectural style that defines a
 
 ***[WSDL (Web Services Description Language](https://en.wikipedia.org/wiki/Web_Services_Description_Language)***  
 
+***RMI (Remote Method Invocation)***  
+
+***RPC (Remote Procedure Call)***  
+

@@ -15,6 +15,8 @@
 
 **API Specifications**  
 
+[Java Specification Requests list by Platform](https://jcp.org/en/jsr/platform)  
+
 [Java Standard Edition 8](https://docs.oracle.com/javase/8/docs/api/)  
 [Java Standard Edition & Java Development Kit Version 13](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)  
 

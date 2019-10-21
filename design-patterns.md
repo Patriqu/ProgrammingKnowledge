@@ -1,7 +1,14 @@
+## Design and Architecture Patterns Lists  
+
 **Software Design Patterns - Wiki Category** [[PL]](https://pl.wikipedia.org/wiki/Kategoria:Wzorce_projektowe) [[EN]](https://en.wikipedia.org/wiki/Category:Software_design_patterns)  
+
+[Java Design Patterns - GitHub](https://github.com/iluwatar/java-design-patterns)  
+[Java Design Patterns - List](https://java-design-patterns.com/patterns)  
+
 [Architectural Pattern](https://en.wikipedia.org/wiki/Architectural_pattern)  
 [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)  
 
+## Design Patterns  
 
 **RAII (Resource Acquisition Is Initialization)**
 

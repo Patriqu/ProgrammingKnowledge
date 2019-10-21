@@ -13,3 +13,5 @@ Representational state transfer is a software architectural style that defines a
 ***RPC (Remote Procedure Call)***  
 
 ***OTP (One-time password)***  
+
+[DTD (Document Type Definition)](https://www.w3schools.com/xml/xml_dtd_intro.asp)  

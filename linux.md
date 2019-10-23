@@ -17,3 +17,7 @@
 
 [man](https://curl.haxx.se/docs/manpage.html)  
 [tutorial](https://curl.haxx.se/docs/manual.html)  
+
+## Debugging
+
+[Analyzing Linux kernel crash dumps with crash - The one tutorial that has it all](https://www.dedoimedo.com/computers/crash-analyze.html)  

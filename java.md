@@ -68,6 +68,11 @@ Jetty
 [HttpComponents Core (GitHub)](https://github.com/apache/httpcomponents-core)  
 
 
+**Data Structures**  
+
+[How to directly initialize a HashMap (in a literal way)?](https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way#6802512)  
+
+
 **Date and Time**
 
 [SimpleDateFormat - Customizing Datetime Formats (Oracle Docs)](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)  
@@ -88,6 +93,10 @@ Jetty
 [Top 7 Open-Source JSON-Binding Providers Available Today (in 2014)](https://www.developer.com/lang/jscript/top-7-open-source-json-binding-providers-available-today.html)  
 
 [What is the difference between Serialization and Marshaling?](https://stackoverflow.com/questions/770474/what-is-the-difference-between-serialization-and-marshaling)  
+
+**JDBC**  
+
+[CallableStatement](http://tutorials.jenkov.com/jdbc/callablestatement.html)  
 
 **ORM**
 

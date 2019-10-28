@@ -13,3 +13,7 @@
 [CVE details](https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-6117/version_id-27215/Apache-Struts-1.2.7.html)
 
 [Newest 'Struts-1' questions (StackOverflow)](https://stackoverflow.com/questions/tagged/struts-1?tab=newest&page=1&pagesize=20)  
+
+## PHP
+
+[Paskudny błąd w PHP7 pozwala każdemu na zdalne wykonywanie kodu](https://www.wykop.pl/link/5191307/paskudny-blad-w-php7-pozwala-kazdemu-na-zdalne-wykonywanie-kodu)  

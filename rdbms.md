@@ -2,6 +2,8 @@
 
 ### SQL
 
+#### [SQL Functions](https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm#i88893)  
+
 ### PL/SQL - Server-Side SQL Scripting Language
 
 [Introduction to Server-Side Programming](https://docs.oracle.com/cd/E11882_01/server.112/e40540/srvrside.htm#CNCPT036)  

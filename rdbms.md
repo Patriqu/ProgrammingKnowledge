@@ -2,7 +2,7 @@
 
 ### SQL
 
-#### [SQL Functions](https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm#i88893)  
+[SQL Functions](https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm#i88893)  
 
 ### PL/SQL - Server-Side SQL Scripting Language
 
@@ -10,7 +10,9 @@
 
 #### Procedures
 
-#### Functions
+#### Functions  
+
+[User-Defined Functions](https://docs.oracle.com/cd/B19306_01/server.102/b14200/functions231.htm#i1012049)  
 
 #### Packages
 

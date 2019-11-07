@@ -7,3 +7,6 @@
 [Pluralsight](https://www.pluralsight.com)  
 [Udemy](https://www.udemy.com)  
 [Udacity](https://www.udacity.com)  
+
+### Technologies  
+[Minifi](https://nifi.apache.org/minifi)  

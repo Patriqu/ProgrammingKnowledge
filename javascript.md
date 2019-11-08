@@ -8,8 +8,10 @@
 
 ### Functional Programming  
 
-[Functional programming in JavaScript - introduction (Codeburst)](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)    
+[Functional programming in JavaScript - introduction (Codeburst)](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)     
 [Functional programming in JavaScript - introduction tutorial (Hackernoon)](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)  
+
+[Two Years of Functional Programming in JavaScript: Lessons Learned (Hackernoon)](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)  
 
 ### Programming languages compiled to JavaScript  
 

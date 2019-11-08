@@ -10,3 +10,8 @@
 
 [Functional programming in JavaScript - introduction (Codeburst)](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)    
 [Functional programming in JavaScript - introduction tutorial (Hackernoon)](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)  
+
+### Programming languages compiled to JavaScript  
+
+[PureScript - a strongly-typed functional programming language that compiles to JavaScript](http://www.purescript.org)  
+[TypeScript](https://www.typescriptlang.org)  

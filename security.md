@@ -1,6 +1,6 @@
 ## Basics  
 
-[OWASP_- Top Ten 2017 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project)  
+[OWASP - Top Ten 2017 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project)  
 [OWASP - Security Misconfiguration](https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration)  
 [OWASP - GitHub Cheatsheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)  
 

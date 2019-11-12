@@ -13,6 +13,8 @@
 
 [Two Years of Functional Programming in JavaScript: Lessons Learned (Hackernoon)](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)  
 
+[Professor's Frisby Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)  
+
 ### Programming languages compiled to JavaScript  
 
 [PureScript - a strongly-typed functional programming language that compiles to JavaScript](http://www.purescript.org)  

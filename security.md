@@ -17,3 +17,7 @@
 ## PHP
 
 [Paskudny błąd w PHP7 pozwala każdemu na zdalne wykonywanie kodu](https://www.wykop.pl/link/5191307/paskudny-blad-w-php7-pozwala-kazdemu-na-zdalne-wykonywanie-kodu)  
+
+## News  
+
+[2020 Vision: Check Point’s cyber-security predictions for the coming year](https://blog.checkpoint.com/2019/10/24/2020-vision-check-points-cyber-security-predictions-for-the-coming-year/?utm_source=newsletter&utm_medium=email&utm_campaign=cpnewsletter-19Q4-11-6&utm_content=19Q4-11-6-2020predictions&mkt_tok=eyJpIjoiTTJRNVlqa3daR1F3T0RReiIsInQiOiJPNnhKK1dTRFY3YTllZjQyTzlRbHlQM1ZKemVwUjlRRk8xR0cyQ2dyMVZDTjVtSVVpRnlrU0dRREJYSHkxWDZiZ1dsV2tGbXdQeVNcL3duNlF2VStyMVFzb0o4XC82VXhQblMrUDZzXC9JaFlEeFEydVFWcEpQU0dyajBJK2ZxYjlrSyJ9)  

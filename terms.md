@@ -16,4 +16,4 @@ Representational state transfer is a software architectural style that defines a
 
 [DTD (Document Type Definition)](https://www.w3schools.com/xml/xml_dtd_intro.asp)  
 
-[WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
+[WSGI (Web Server Gateway Interface) - Python API Specification](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  

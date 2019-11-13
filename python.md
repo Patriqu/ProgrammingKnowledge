@@ -5,6 +5,8 @@
 
 [Python Anywhere](https://www.pythonanywhere.com/?affiliate_id=00535ced)  
 
+[The Python Standard Library](https://docs.python.org/3.8/library/index.html)  
+
 ## File and text manipulations  
 
 [Read file](https://pythonspot.com/read-file/)  

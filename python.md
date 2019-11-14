@@ -8,6 +8,8 @@
 [The Python Language Reference](https://docs.python.org/3.8/reference/index.html)  
 [The Python Standard Library](https://docs.python.org/3.8/library/index.html)  
 
+[Python Docstrings](https://www.pythonforbeginners.com/basics/python-docstrings/)  
+
 ## Control Flow  
 
 [Does Python have a ternary conditional operator?](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator?rq=1)  

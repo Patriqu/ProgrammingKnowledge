@@ -18,6 +18,7 @@
 
 [Add new keys to a dictionary?](https://stackoverflow.com/questions/1024847/add-new-keys-to-a-dictionary#1024851)  
 [How do I merge two dictionaries in a single expression?](https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression)  
+[Using list comprehension to “merge” a list within a list](https://stackoverflow.com/questions/32332833/using-list-comprehension-to-merge-a-list-within-a-list)  
 
 [Python - Create list with numbers between 2 values? (range)](https://stackoverflow.com/questions/18265935/python-create-list-with-numbers-between-2-values#18265979)  
 

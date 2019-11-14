@@ -2,11 +2,20 @@
 
 [Python Tutorials - main page](https://pythonspot.com/)  
 [Python - Beginner tutorials](https://pythonspot.com/beginner/)  
+[w3schools Python tutorial](https://www.w3schools.com/python/default.asp)  
 
 [Python Anywhere](https://www.pythonanywhere.com/?affiliate_id=00535ced)  
 
 [The Python Language Reference](https://docs.python.org/3.8/reference/index.html)  
 [The Python Standard Library](https://docs.python.org/3.8/library/index.html)  
+
+## Basics  
+
+[Python Variables, Constants and Literals](https://www.programiz.com/python-programming/variables-constants-literals)  
+[Mutable and immutable side of Python (medium article)](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747)  
+[How to make a variable immutable in python](https://stackoverflow.com/questions/5511128/how-to-make-a-variable-immutable-in-python)  
+
+[Typing - Support for type hints (Python Docs)](https://docs.python.org/3/library/typing.html)  
 
 [Python Docstrings](https://www.pythonforbeginners.com/basics/python-docstrings/)  
 

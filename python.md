@@ -8,6 +8,7 @@
 
 [The Python Language Reference](https://docs.python.org/3.8/reference/index.html)  
 [The Python Standard Library](https://docs.python.org/3.8/library/index.html)  
+[The Python Tutorial](https://docs.python.org/3.8/tutorial/index.html)  
 
 ## Basics  
 
@@ -18,6 +19,11 @@
 [Typing - Support for type hints (Python Docs)](https://docs.python.org/3/library/typing.html)  
 
 [Python Docstrings](https://www.pythonforbeginners.com/basics/python-docstrings/)  
+
+## Good Practices  
+
+[Why does pycharm propose to change method to static?](https://stackoverflow.com/questions/23554872/why-does-pycharm-propose-to-change-method-to-static#23555313)  
+[Should I use static methods or top-level functions?](https://stackoverflow.com/questions/18262595/python-should-i-use-static-methods-or-top-level-functions)  
 
 ## Control Flow  
 

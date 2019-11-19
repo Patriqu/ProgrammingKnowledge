@@ -61,6 +61,7 @@
 ## Excel Spreadsheets  
 
 [Create and read csv](https://pythonspot.com/files-spreadsheets-csv/)  
+[Reading and Writing CSV Files in Python (RealPython)](https://realpython.com/python-csv/)  
 
 [Write Excel with Pandas](https://pythonspot.com/write-excel-with-pandas/)  
 [Read Excel with Pandas](https://pythonspot.com/read-excel-with-pandas/)  

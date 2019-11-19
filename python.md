@@ -37,10 +37,15 @@
 
 [Python - Create list with numbers between 2 values? (range)](https://stackoverflow.com/questions/18265935/python-create-list-with-numbers-between-2-values#18265979)  
 
+[making an array of sets in python](https://stackoverflow.com/questions/17620537/making-an-array-of-sets-in-python)  
+[Need to create a list of sets, from a list of sets whose members may be connected](https://stackoverflow.com/questions/6144262/need-to-create-a-list-of-sets-from-a-list-of-sets-whose-members-may-be-connecte)  
+
 ## File and text manipulations  
 
 [Read file](https://pythonspot.com/read-file/)  
 [Write file](https://pythonspot.com/write-file/)  
+
+[How to count the number of files in a directory using Python](https://stackoverflow.com/questions/2632205/how-to-count-the-number-of-files-in-a-directory-using-python)  
 
 ## Regex
 

@@ -2,6 +2,7 @@
 
 [C++ Language Reference](http://www.cplusplus.com/doc/tutorial/)  
 [Standard C++ Library Reference](http://www.cplusplus.com/reference/)  
+[Cpp Reference Page](https://en.cppreference.com/w/)  
 
 [Official C++ Forum](http://www.cplusplus.com/forum/)  
 [Old C++ Language Reference (C++98)](http://www.cplusplus.com/doc/oldtutorial/)  

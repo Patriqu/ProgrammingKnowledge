@@ -83,3 +83,8 @@
 ## Frameworks  
 
 [Django - web development framework](https://www.djangoproject.com/start/overview/)  
+
+## Data Science  
+
+[Python Data Science Handbook - Jupyter at GitHub](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)  
+[Python Data Science Handbook - Jupyter at O'Reilly](https://nc-proxy.binderhub-prod.gcp.oreilly.com/user/binderhub-jnb-p-cience-handbook-6v5jgvo3/notebooks/notebooks/Index.ipynb)  

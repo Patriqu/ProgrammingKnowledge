@@ -6,6 +6,8 @@
 [Official C++ Forum](http://www.cplusplus.com/forum/)  
 [Old C++ Language Reference (C++98)](http://www.cplusplus.com/doc/oldtutorial/)  
 
+[C++ Online Shell](http://cpp.sh/)  
+
 ## Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  

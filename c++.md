@@ -4,6 +4,7 @@
 [Standard C++ Library Reference](http://www.cplusplus.com/reference/)  
 
 [Official C++ Forum](http://www.cplusplus.com/forum/)  
+[Old C++ Language Reference (C++98)](http://www.cplusplus.com/doc/oldtutorial/)  
 
 ## Basics  
 

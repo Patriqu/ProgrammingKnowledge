@@ -36,9 +36,11 @@
 [Using list comprehension to “merge” a list within a list](https://stackoverflow.com/questions/32332833/using-list-comprehension-to-merge-a-list-within-a-list)  
 
 [Python - Create list with numbers between 2 values? (range)](https://stackoverflow.com/questions/18265935/python-create-list-with-numbers-between-2-values#18265979)  
-
-[making an array of sets in python](https://stackoverflow.com/questions/17620537/making-an-array-of-sets-in-python)  
+[Making an array of sets in python](https://stackoverflow.com/questions/17620537/making-an-array-of-sets-in-python)  
 [Need to create a list of sets, from a list of sets whose members may be connected](https://stackoverflow.com/questions/6144262/need-to-create-a-list-of-sets-from-a-list-of-sets-whose-members-may-be-connecte)  
+
+[Sort list of date strings](https://stackoverflow.com/questions/17627531/sort-list-of-date-strings#17627575)  
+[Convert a list of strings to a list of numbers Python](https://stackoverflow.com/questions/24251465/convert-a-list-of-strings-to-a-list-of-numbers-python#24251479)  
 
 ## File and text manipulations  
 
@@ -62,14 +64,20 @@
 
 [Create and read csv](https://pythonspot.com/files-spreadsheets-csv/)  
 [Reading and Writing CSV Files in Python (RealPython)](https://realpython.com/python-csv/)  
+[Argument 1 must be an iterator - what am I doing wrong?](https://stackoverflow.com/questions/35350086/argument-1-must-be-an-iterator-what-am-i-doing-wrong#35350398)  
+[Why is the Python CSV reader ignoring double-quoted fields?](https://stackoverflow.com/questions/6879596/why-is-the-python-csv-reader-ignoring-double-quoted-fields#6879712)  
+[Writing to CSV, getting “Error: need to escape” for a blank string](https://stackoverflow.com/questions/32107790/writing-to-csv-getting-error-need-to-escape-for-a-blank-string#32108029)  
 
 [Write Excel with Pandas](https://pythonspot.com/write-excel-with-pandas/)  
 [Read Excel with Pandas](https://pythonspot.com/read-excel-with-pandas/)  
 
 [Write Excel with XlsxWriter - Documentation](https://xlsxwriter.readthedocs.io/contents.html)  
+[The Format Class - XlsxWriter Documentation](https://xlsxwriter.readthedocs.io/format.html#format)  
+[How to set formatting for entire row or column in xlswriter python?](https://stackoverflow.com/questions/28966420/how-to-set-formatting-for-entire-row-or-column-in-xlswriter-python)  
 
 ## Testing
 
+[unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)  
 [Selenium](https://pythonspot.com/selenium/)  
 
 ## Frameworks  

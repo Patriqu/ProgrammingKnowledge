@@ -32,6 +32,11 @@ Raw Pointers (#todo)
 [LLVM](https://en.wikipedia.org/wiki/LLVM)  
 [LLDB - Debugger of the LLVM project](https://en.wikipedia.org/wiki/LLDB_(debugger))  
 
+## Visual Studio  
+
+[Create a C++ console app project](https://docs.microsoft.com/en-gb/cpp/get-started/tutorial-console-cpp?view=vs-2019)  
+[Popular keyboard shortcuts for Visual Studio](https://docs.microsoft.com/en-gb/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)  
+
 ## Libraries (#todo)  
 
 ## Forum discussions  

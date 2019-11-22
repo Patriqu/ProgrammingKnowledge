@@ -18,6 +18,7 @@
 ## Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  
+[Implementation defined behavior control (pragmas)](https://en.cppreference.com/w/cpp/preprocessor/impl)  
 [Macros](http://www.cplusplus.com/doc/tutorial/preprocessor/)  
 [Pointers](http://www.cplusplus.com/doc/tutorial/pointers/)  
 [Classes](http://www.cplusplus.com/doc/tutorial/classes/)  

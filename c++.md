@@ -9,6 +9,13 @@
 
 [C++ Online Shell](http://cpp.sh/)  
 
+### Microsoft Documentation  
+
+[C/C++ preprocessor reference](https://docs.microsoft.com/en-us/cpp/preprocessor/c-cpp-preprocessor-reference?view=vs-2019)  
+[Include Guard (Wikipedia)](https://en.wikipedia.org/wiki/Include_guard)  
+
+
+
 ## Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  

@@ -27,6 +27,8 @@
 
 Raw Pointers (#todo)  
 
+[get_pointer_safety (C++ Reference)](http://www.cplusplus.com/reference/memory/get_pointer_safety)  
+
 ## Good Practices  
 
 [Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  
@@ -34,10 +36,35 @@ Raw Pointers (#todo)
 
 [SOLID principles implementation for C (StackOverflow)](https://stackoverflow.com/questions/17648266/solid-principles-implementation-for-c)  
 
+[Use of "stdafx.h"](http://www.cplusplus.com/articles/1TUq5Di1/)  
+[What is “stdafx.h” used for in Visual Studio?](https://stackoverflow.com/questions/4726155/what-is-stdafx-h-used-for-in-visual-studio/4726838#4726838)  
+
 ## Toolchains  
+
+### LLVM/CLang
 
 [LLVM](https://en.wikipedia.org/wiki/LLVM)  
 [LLDB - Debugger of the LLVM project](https://en.wikipedia.org/wiki/LLDB_(debugger))  
+
+[Clang/LLVM Support in Visual Studio](https://devblogs.microsoft.com/cppblog/clang-llvm-support-in-visual-studio/)  
+
+#### Problems  
+[Clang fails to compile C++ (C++ forum)](http://www.cplusplus.com/forum/unices/114261/)  
+
+### Intellisense
+
+[IntelliSense (Visual Studio Code Docs)](https://code.visualstudio.com/docs/editor/intellisense)  
+
+[Enable c++17 intellisense open folder visual studio ninja-clang](https://stackoverflow.com/questions/47855545/enable-c17-intellisense-open-folder-visual-studio-ninja-clang#47913969)  
+
+#### Problems with Intellisense CLang in Visual Studio and Visual Studio Code  
+
+[namespace "std" has no member "cout"](https://github.com/microsoft/vscode-cpptools/issues/4228)  
+[namespace "std" has no member "cout"](https://github.com/Microsoft/vscode-cpptools/issues/895)  
+
+## CMake  
+
+[CMake projects in Visual Studio (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019)  
 
 ## Visual Studio  
 

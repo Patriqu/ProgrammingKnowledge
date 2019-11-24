@@ -27,6 +27,13 @@
 
 Raw Pointers (#todo)  
 
+## Good Practices  
+
+[Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  
+[Microsoft Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
+
+[SOLID principles implementation for C (StackOverflow)](https://stackoverflow.com/questions/17648266/solid-principles-implementation-for-c)  
+
 ## Toolchains  
 
 [LLVM](https://en.wikipedia.org/wiki/LLVM)  

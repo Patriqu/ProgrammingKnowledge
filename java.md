@@ -1,4 +1,4 @@
-**Basics**
+## Basics
 
 [How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)  
 
@@ -8,12 +8,12 @@
 [Java Design Patterns - GitHub](https://github.com/iluwatar/java-design-patterns)  
 [Java Design Patterns - List](https://java-design-patterns.com/patterns)  
 
-**Portals about Java Programming**  
+## Portals about Java Programming  
 
 [Java Dev Journal - guides and interview questions](https://www.javadevjournal.com/)  
 [DZone](https://dzone.com/)  
 
-**API Specifications**  
+## API Specifications  
 
 [Java Specification Requests list by Platform](https://jcp.org/en/jsr/platform)  
 
@@ -26,7 +26,7 @@
 [Spring Boot - Current API Documentation](https://docs.spring.io/spring-boot/docs/current/api/)  
 [Spring Documentations List](https://spring.io/docs/reference)  
 
-**Tutorials**  
+## Tutorials  
 
 [Java SE - Glossary of Terms](https://docs.oracle.com/javase/tutorial/information/glossary.html)  
 [Oracle Glossary](https://www.oracle.com/technetwork/java/glossary-135216.html)  
@@ -44,7 +44,7 @@
 
 [What are the main disadvantages of Java Server Faces 2.0](https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0)  
 
-**Web Application Servers**
+## Web Application Servers  
 
 [Apache httpd](https://github.com/apache/httpd)  
 Apache TomEE  
@@ -56,36 +56,36 @@ JBoss Wildfly
 JBoss Enterprise Application Platform  
 
 
-**Web / Servlets Containers**
+## Web / Servlets Containers  
 
 [Apache Tomcat](https://github.com/apache/tomcat)  
 Jetty
 
 
-**HTTP messaging**
+## HTTP messaging  
 
 [HttpComponents Client (Github)](https://github.com/apache/httpcomponents-client)  
 [HttpComponents Core (GitHub)](https://github.com/apache/httpcomponents-core)  
 
 
-**Data Structures**  
+## Data Structures  
 
 [How to directly initialize a HashMap (in a literal way)?](https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way#6802512)  
 
 
-**Date and Time**
+## Date and Time  
 
 [SimpleDateFormat - Customizing Datetime Formats (Oracle Docs)](https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html)  
 [Date format parse exception (StackOverflow)](https://stackoverflow.com/questions/19861642/date-format-parse-exception-eee-mmm-dd-hhmmss-z-yyyy)  
 
 
-**Web Services & RESTful Services**  
+## Web Services & RESTful Services  
 
 [jaxrs-api VS jsr311-api VS javax.ws.rs-api VS jersey-core VS jaxrs-ri](https://stackoverflow.com/questions/32106428/jaxrs-api-vs-jsr311-api-vs-javax-ws-rs-api-vs-jersey-core-vs-jaxrs-ri#32109009)  
 
 [Spring HATEOAS - JavaDevJournal](https://www.javadevjournal.com/spring/spring-hateoas/)  
 
-**Serialization & Marshalling**  
+## Serialization & Marshalling  
 
 [Jackson Project Home @GitHub](https://github.com/FasterXML/jackson)  
 [Jackson - Tutorialspoint Quick Guide](https://www.tutorialspoint.com/jackson/jackson_quick_guide.htm)  
@@ -94,14 +94,18 @@ Jetty
 
 [What is the difference between Serialization and Marshaling?](https://stackoverflow.com/questions/770474/what-is-the-difference-between-serialization-and-marshaling)  
 
-**JDBC**  
+## Testing  
+
+[Spock Framework - Reference Documenation](http://spockframework.org/spock/docs/1.0/index.html)  
+
+## JDBC  
 
 [CallableStatement](http://tutorials.jenkov.com/jdbc/callablestatement.html)  
 
-**ORM**
+## ORM  
 
-**Security**
+## Security  
 
-**Performance**
+## Performance  
 
-**JVM**
+## JVM  

@@ -75,7 +75,8 @@ Raw Pointers (#todo)
 
 ### WinAPI
 
-[Windows Data Types (handlers)](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types?redirectedfrom=MSDN)  
+[Handles and Data Types (Windows Programming - wikibooks)](https://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types#HANDLE)  
+[Windows Data Types (handlers) (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types?redirectedfrom=MSDN)  
 
 ## Libraries (#todo)  
 

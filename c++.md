@@ -82,6 +82,7 @@ Raw Pointers (#todo)
 [STRICT Type Checking](https://docs.microsoft.com/en-us/windows/win32/winprog/strict-type-checking)  
 
 [What is a Windows Handle? (StackOverflow)](https://stackoverflow.com/questions/902967/what-is-a-windows-handle)  
+[What is __stdcall? (StackOverflow)](https://stackoverflow.com/questions/297654/what-is-stdcall#297661)  
 
 [Using the Windows Headers (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers)  
 

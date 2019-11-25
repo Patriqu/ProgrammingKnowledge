@@ -1,6 +1,6 @@
 ## Sites  
 
-[Official Microsoft C# Documentation](C# documentation)  
+[Official Microsoft C# Documentation (C# documentation)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
 
 ## C# functionalities  
 

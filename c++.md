@@ -90,6 +90,8 @@ Raw Pointers (#todo)
 [Header Annotations (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/header-annotations)  
 [Using SAL Annotations to Reduce C/C++ Code Defects (Microsoft Docs)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/ms182032(v=vs.120)?redirectedfrom=MSDN)  
 
+[MFC Desktop Applications (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019)  
+
 ## Libraries (#todo)  
 
 ## Forum discussions  

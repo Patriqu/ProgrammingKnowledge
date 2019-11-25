@@ -75,9 +75,13 @@ Raw Pointers (#todo)
 
 ### WinAPI and Windows libraries
 
+[theForger's Win32 API Programming Tutorial](http://www.winprog.org/tutorial/start.html)  
+
 [Handles and Data Types (Windows Programming - wikibooks)](https://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types#HANDLE)  
 [Windows Data Types (handlers) (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types?redirectedfrom=MSDN)  
 [STRICT Type Checking](https://docs.microsoft.com/en-us/windows/win32/winprog/strict-type-checking)  
+
+[What is a Windows Handle? (StackOverflow)](https://stackoverflow.com/questions/902967/what-is-a-windows-handle)  
 
 [Using the Windows Headers (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers)  
 

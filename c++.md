@@ -85,6 +85,7 @@ Raw Pointers (#todo)
 [What is __stdcall? (StackOverflow)](https://stackoverflow.com/questions/297654/what-is-stdcall#297661)  
 [x86 calling conventions (Wikipedia)](https://en.wikipedia.org/wiki/X86_calling_conventions)  
 [Argument Passing and Naming Conventions (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/cpp/argument-passing-and-naming-conventions?redirectedfrom=MSDN&view=vs-2019)  
+[Calling conventions demystified (codeproject.com)](https://www.codeproject.com/Articles/1388/Calling-Conventions-Demystified)  
 
 [Using the Windows Headers (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers)  
 [Header Annotations (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/header-annotations)  

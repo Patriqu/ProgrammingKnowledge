@@ -66,6 +66,8 @@ Raw Pointers (#todo)
 
 [CMake projects in Visual Studio (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019)  
 
+[How to enable C++17 in CMake](https://stackoverflow.com/questions/45688522/how-to-enable-c17-in-cmake#45688650)  
+
 ## Visual Studio  
 
 [Create a C++ console app project](https://docs.microsoft.com/en-gb/cpp/get-started/tutorial-console-cpp?view=vs-2019)  

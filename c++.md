@@ -71,6 +71,12 @@ Raw Pointers (#todo)
 [Create a C++ console app project](https://docs.microsoft.com/en-gb/cpp/get-started/tutorial-console-cpp?view=vs-2019)  
 [Popular keyboard shortcuts for Visual Studio](https://docs.microsoft.com/en-gb/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)  
 
+## API  
+
+### WinAPI
+
+[Windows Data Types (handlers)](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types?redirectedfrom=MSDN)  
+
 ## Libraries (#todo)  
 
 ## Forum discussions  

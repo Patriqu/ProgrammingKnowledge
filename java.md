@@ -97,6 +97,7 @@ Jetty
 ## Testing  
 
 [Spock Framework - Reference Documenation](http://spockframework.org/spock/docs/1.0/index.html)  
+[Spock Framework - WebConsole](http://webconsole.spockframework.org/edit/9001)  
 
 ## JDBC  
 

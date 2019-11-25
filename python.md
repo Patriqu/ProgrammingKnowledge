@@ -27,6 +27,8 @@
 [Why does pycharm propose to change method to static?](https://stackoverflow.com/questions/23554872/why-does-pycharm-propose-to-change-method-to-static#23555313)  
 [Should I use static methods or top-level functions?](https://stackoverflow.com/questions/18262595/python-should-i-use-static-methods-or-top-level-functions)  
 
+[Manually raising (throwing) an exception in Python (StackOverflow)](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)  
+
 ## Control Flow  
 
 [Does Python have a ternary conditional operator?](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator?rq=1)  

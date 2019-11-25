@@ -20,6 +20,8 @@
 
 [Python Docstrings](https://www.pythonforbeginners.com/basics/python-docstrings/)  
 
+[Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)  
+
 ## Good Practices  
 
 [Why does pycharm propose to change method to static?](https://stackoverflow.com/questions/23554872/why-does-pycharm-propose-to-change-method-to-static#23555313)  

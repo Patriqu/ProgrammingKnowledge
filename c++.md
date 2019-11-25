@@ -79,12 +79,16 @@ Raw Pointers (#todo)
 
 [Handles and Data Types (Windows Programming - wikibooks)](https://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types#HANDLE)  
 [Windows Data Types (handlers) (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types?redirectedfrom=MSDN)  
-[STRICT Type Checking](https://docs.microsoft.com/en-us/windows/win32/winprog/strict-type-checking)  
+[STRICT Type Checking (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/strict-type-checking)  
 
 [What is a Windows Handle? (StackOverflow)](https://stackoverflow.com/questions/902967/what-is-a-windows-handle)  
 [What is __stdcall? (StackOverflow)](https://stackoverflow.com/questions/297654/what-is-stdcall#297661)  
+[x86 calling conventions (Wikipedia)](https://en.wikipedia.org/wiki/X86_calling_conventions)  
+[Argument Passing and Naming Conventions (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/cpp/argument-passing-and-naming-conventions?redirectedfrom=MSDN&view=vs-2019)  
 
 [Using the Windows Headers (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers)  
+[Header Annotations (Microsoft Docs)](https://docs.microsoft.com/en-us/windows/win32/winprog/header-annotations)  
+[Using SAL Annotations to Reduce C/C++ Code Defects (Microsoft Docs)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/ms182032(v=vs.120)?redirectedfrom=MSDN)  
 
 ## Libraries (#todo)  
 

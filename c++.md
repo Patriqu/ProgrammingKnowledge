@@ -34,6 +34,10 @@ Raw Pointers (#todo)
 [Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  
 [Microsoft Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
 
+[Why does Microsoft use the “g_” naming convention with its DirectX10 pipeline variables?](https://stackoverflow.com/questions/5495019/why-does-microsoft-use-the-g-naming-convention-with-its-directx10-pipeline-va)  
+[Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)  
+[Good Examples of Hungarian Notation? [closed]](https://stackoverflow.com/questions/202107/good-examples-of-hungarian-notation#202135)  
+
 [SOLID principles implementation for C (StackOverflow)](https://stackoverflow.com/questions/17648266/solid-principles-implementation-for-c)  
 
 [Use of "stdafx.h"](http://www.cplusplus.com/articles/1TUq5Di1/)  
@@ -100,6 +104,10 @@ Raw Pointers (#todo)
 [MFC Desktop Applications (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019)  
 
 ## Libraries (#todo)  
+
+## Testing  
+
+[C++ Unit Testing in Visual Studio 2017+ (Microsoft Blog)](https://devblogs.microsoft.com/cppblog/cpp-testing-in-visual-studio/)  
 
 ## Forum discussions  
 

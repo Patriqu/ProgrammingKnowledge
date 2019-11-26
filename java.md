@@ -99,6 +99,23 @@ Jetty
 [Spock Framework - Reference Documenation](http://spockframework.org/spock/docs/1.0/index.html)  
 [Spock Framework - WebConsole](http://webconsole.spockframework.org/edit/9001)  
 
+### Mockito  
+
+[Mockito Latest Documentation](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html#0.2)  
+[Unit tests with Mockito - Tutorial (Vogella Version 1.9, 10.04.2017)](https://www.vogella.com/tutorials/Mockito/article.html)  
+
+##### Mocking Final Objects  
+
+[Mocking the Unmockable: The Mockito2 Way (DZone)](https://dzone.com/articles/mocking-the-unmockable-the-mockito2-way)  
+[How to mock a String using mockito? (StackOverflow Jul 3 '09)](https://stackoverflow.com/questions/1079239/how-to-mock-a-string-using-mockito#1079261)  
+[How to mock a final class with mockito (StackOverflow Jan 12 '13)](https://stackoverflow.com/questions/14292863/how-to-mock-a-final-class-with-mockito#40018295)  
+[How to mock a final class with mockito (AnswersHub)](https://exceptionshub.com/how-to-mock-a-final-class-with-mockito.html)  
+[When Mockito’s InjectMocks Does Not Inject Mocks (DZone Dec. 03, 15)](https://dzone.com/articles/when-mockitos-injectmocks-does-not-inject-mocks)  
+[Could not initialize plugin: interface org.mockito.plugins.MockMaker (StackOverflow Jan 31 '17)](https://stackoverflow.com/questions/41956692/could-not-initialize-plugin-interface-org-mockito-plugins-mockmaker?rq=1)  
+
+[Mockito Core 3.1.0 Mocking final types, enums and final methods (Since 2.1.0)](https://javadoc.io/static/org.mockito/mockito-core/3.1.0/org/mockito/Mockito.html#39)  
+[org.mockito.plugins Interface MockMaker (Mockito documentation)](https://static.javadoc.io/org.mockito/mockito-all/1.10.19/org/mockito/plugins/MockMaker.html)  
+
 ## JDBC  
 
 [CallableStatement](http://tutorials.jenkov.com/jdbc/callablestatement.html)  

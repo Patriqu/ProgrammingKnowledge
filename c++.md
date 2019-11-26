@@ -108,6 +108,8 @@ Raw Pointers (#todo)
 ## Testing  
 
 [C++ Unit Testing in Visual Studio 2017+ (Microsoft Blog)](https://devblogs.microsoft.com/cppblog/cpp-testing-in-visual-studio/)  
+[Comparison of C++ unit test frameworks (StackOverflow Oct 28 '08)](https://stackoverflow.com/questions/242926/comparison-of-c-unit-test-frameworks)  
+[List of C++ unit testing frameworks (Wikipedia)](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#C++)  
 
 ## Forum discussions  
 

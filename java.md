@@ -44,6 +44,28 @@
 
 [What are the main disadvantages of Java Server Faces 2.0](https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0)  
 
+## Good Practices  
+
+
+## Java Standard APIs  
+
+### java.lang.reflect
+
+[Class AccessibleObject](https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/AccessibleObject.html)  
+[Interface AnnotatedElement](https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/AnnotatedElement.html)  
+
+### java.lang.annotation  
+
+[Annotation Type Documented](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/Documented.html)  
+[Annotation Type Target](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/Target.html)  
+
+[Annotation Type Retention](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/Retention.html)  
+[Enum RetentionPolicy](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/RetentionPolicy.html)  
+
+## Annotations  
+
+[Which NotNull Java annotation should i use? (StackOverflow)](https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use)  
+
 ## Web Application Servers  
 
 [Apache httpd](https://github.com/apache/httpd)  

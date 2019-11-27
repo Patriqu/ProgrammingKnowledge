@@ -49,12 +49,12 @@
 
 ## Java Standard APIs  
 
-### java.lang.reflect
+* ### [java.lang.reflect](https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/package-summary.html)  
 
 [Class AccessibleObject](https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/AccessibleObject.html)  
 [Interface AnnotatedElement](https://docs.oracle.com/javase/7/docs/api/java/lang/reflect/AnnotatedElement.html)  
 
-### [*java.lang.annotation*](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/package-summary.html)  
+* ### [java.lang.annotation](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/package-summary.html)  
 
 [Annotation Type Documented](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/Documented.html)  
 [Annotation Type Target](https://docs.oracle.com/javase/7/docs/api/java/lang/annotation/Target.html)  

@@ -9,13 +9,13 @@
 
 [C++ Online Shell](http://cpp.sh/)  
 
-### Microsoft Documentation  
+### C++ Microsoft Documentation  
 
 [C/C++ preprocessor reference](https://docs.microsoft.com/en-us/cpp/preprocessor/c-cpp-preprocessor-reference?view=vs-2019)  
 [Pragma directives and the __pragma keyword](https://docs.microsoft.com/en-us/cpp/preprocessor/pragma-directives-and-the-pragma-keyword?redirectedfrom=MSDN&view=vs-2019)  
 [Include Guard (Wikipedia)](https://en.wikipedia.org/wiki/Include_guard)  
 
-## Basics  
+## C++ Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  
 [Implementation defined behavior control (pragmas)](https://en.cppreference.com/w/cpp/preprocessor/impl)  
@@ -86,6 +86,7 @@ Raw Pointers (#todo)
 
 ### WinAPI and Windows libraries
 
+[Get Started with Win32 and C++ (Microsoft Docs)](https://docs.microsoft.com/en-gb/windows/win32/direct3ddxgi/d3d10-graphics-reference-dxgi)  
 [theForger's Win32 API Programming Tutorial](http://www.winprog.org/tutorial/start.html)  
 
 [Handles and Data Types (Windows Programming - wikibooks)](https://en.wikibooks.org/wiki/Windows_Programming/Handles_and_Data_Types#HANDLE)  

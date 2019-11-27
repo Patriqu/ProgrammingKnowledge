@@ -1,3 +1,10 @@
+## Repository of Knowledge  
+
+[Java Design Patterns Web Wiki](https://github.com/iluwatar/java-design-patterns-web/wiki)  
+[Programming principles](https://github.com/webpro/programming-principles)  
+[Java Design Patterns examples](https://github.com/iluwatar/java-design-patterns)  
+[30 seconds of Java - collection of reusable tested code snippets](https://github.com/iluwatar/30-seconds-of-java#table-of-contents)  
+
 ## Design and Architecture Patterns Lists  
 
 **Software Design Patterns - Wiki Category** [[PL]](https://pl.wikipedia.org/wiki/Kategoria:Wzorce_projektowe) [[EN]](https://en.wikipedia.org/wiki/Category:Software_design_patterns)  

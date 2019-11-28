@@ -32,6 +32,10 @@
 - [RIPS Security Analysis (paid, 30 minutes demo, 14 days trial)](https://www.ripstech.com/)
 - [JFrog XRay (paid)](https://jfrog.com/pricing/xray-pricing/)
 
+### Profiling  
+
+- Spot Profiler for Java
+
 ### Java Enhancements
 - Lombok
 

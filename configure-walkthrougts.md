@@ -23,6 +23,8 @@
 - Save Actions
 - .ignore
 - Database Navigator
+- Quick File Preview (Martin Sommer)
+
 - HotSwapAgent (to test - Agent provides real hotswap functionality together with DCEVM which extends JVM class redefinition functionality)
 
 ### Vulnerability Scanning  

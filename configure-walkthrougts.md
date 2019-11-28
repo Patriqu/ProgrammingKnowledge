@@ -1,6 +1,6 @@
 # Intellij Idea
 
-## Required Plugins  
+## Suggested Plugins  
 
 ### Static Analysis  
 - Codota (AI code complete and suggestions)
@@ -24,6 +24,13 @@
 - .ignore
 - Database Navigator
 - HotSwapAgent (to test - Agent provides real hotswap functionality together with DCEVM which extends JVM class redefinition functionality)
+
+### Vulnerability Scanning  
+
+- [Snyk Vulnerability Scanning (free and paid subscriptions)](https://snyk.io/plans/)  
+
+- [RIPS Security Analysis (paid, 30 minutes demo, 14 days trial)](https://www.ripstech.com/)
+- [JFrog XRay (paid)](https://jfrog.com/pricing/xray-pricing/)
 
 ### Java Enhancements
 - Lombok

@@ -107,6 +107,8 @@ Raw Pointers (#todo)
 
 ## Libraries (#todo)  
 
+[SDL 2.0](https://wiki.libsdl.org)  
+
 ## Testing  
 
 [C++ Unit Testing in Visual Studio 2017+ (Microsoft Blog)](https://devblogs.microsoft.com/cppblog/cpp-testing-in-visual-studio/)  

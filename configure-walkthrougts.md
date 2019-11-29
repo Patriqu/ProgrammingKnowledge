@@ -30,6 +30,8 @@
 ### Vulnerability Scanning  
 
 - [Snyk Vulnerability Scanning (free and paid subscriptions)](https://snyk.io/plans/)  
+[Scan your code locally](https://app.snyk.io/org/patriqu/add/cli)  
+[Which manifest files can be tested and monitored by Snyk?](https://support.snyk.io/hc/en-us/articles/360000911957-Language-support)  
 
 - [RIPS Security Analysis (paid, 30 minutes demo, 14 days trial)](https://www.ripstech.com/)
 - [JFrog XRay (paid)](https://jfrog.com/pricing/xray-pricing/)

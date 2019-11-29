@@ -77,6 +77,7 @@ Raw Pointers (#todo)
 
 [Create a C++ console app project](https://docs.microsoft.com/en-gb/cpp/get-started/tutorial-console-cpp?view=vs-2019)  
 [Popular keyboard shortcuts for Visual Studio](https://docs.microsoft.com/en-gb/visualstudio/ide/default-keyboard-shortcuts-for-frequently-used-commands-in-visual-studio?view=vs-2019)  
+[Visual Studio 2019 Release Notes](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)  
 
 ## CLion  
 

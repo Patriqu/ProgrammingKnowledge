@@ -14,6 +14,10 @@
 
 [Newest 'Struts-1' questions (StackOverflow)](https://stackoverflow.com/questions/tagged/struts-1?tab=newest&page=1&pagesize=20)  
 
+## Java Libraries Vulnerabilities  
+
+[Directory Traversal - Affecting org.apache.httpcomponents:httpclient artifact, versions < 4.5.3](https://snyk.io/vuln/SNYK-JAVA-ORGAPACHEHTTPCOMPONENTS-31517)  
+
 ## PHP
 
 [Paskudny błąd w PHP7 pozwala każdemu na zdalne wykonywanie kodu](https://www.wykop.pl/link/5191307/paskudny-blad-w-php7-pozwala-kazdemu-na-zdalne-wykonywanie-kodu)  

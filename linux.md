@@ -45,3 +45,7 @@
 # Debugging
 
 [Analyzing Linux kernel crash dumps with crash - The one tutorial that has it all](https://www.dedoimedo.com/computers/crash-analyze.html)  
+
+# Ubuntu  
+
+[Set proxy alias](https://stackoverflow.com/questions/9445489/performing-http-requests-with-curl-using-proxy#23801081)  

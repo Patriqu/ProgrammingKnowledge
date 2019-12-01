@@ -17,6 +17,8 @@
 [Pragma directives and the __pragma keyword](https://docs.microsoft.com/en-us/cpp/preprocessor/pragma-directives-and-the-pragma-keyword?redirectedfrom=MSDN&view=vs-2019)  
 [Include Guard (Wikipedia)](https://en.wikipedia.org/wiki/Include_guard)  
 
+[Stringizing operator (#) (C++ Preprocessor doc)](https://docs.microsoft.com/en-us/cpp/preprocessor/stringizing-operator-hash?view=vs-2019)  
+
 ## C++ Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  

@@ -109,7 +109,10 @@ Raw Pointers (#todo)
 [MFC Desktop Applications (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019)  
 
 [COM API documentation](https://docs.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal)  
-[DXGI API documentation]()  
+[DXGI API documentation](  https://docs.microsoft.com/en-us/windows/win32/api/_direct3ddxgi/)  
+
+[Windows Runtime C++ Template Library (WRL)](https://docs.microsoft.com/en-gb/cpp/cppcx/wrl/windows-runtime-cpp-template-library-wrl?branch=live&view=vs-2019)  
+[WinRT (C++17)](https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/)  
 
 ## Libraries (#todo)  
 

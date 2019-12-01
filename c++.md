@@ -83,7 +83,7 @@ Raw Pointers (#todo)
 
 ## CLion  
 
-[How-can-I-configure-LLVM-Clang-6-0-with-CLION-2018-1](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000394670-How-can-I-configure-LLVM-Clang-6-0-with-CLION-2018-1)  
+[How can I configure LLVM Clang 6.0 with CLION 2018.1](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000394670-How-can-I-configure-LLVM-Clang-6-0-with-CLION-2018-1)  
 
 ## API  
 
@@ -114,6 +114,7 @@ Raw Pointers (#todo)
 [DXGI API documentation](  https://docs.microsoft.com/en-us/windows/win32/api/_direct3ddxgi/)  
 
 [Windows Runtime C++ Template Library (WRL)](https://docs.microsoft.com/en-gb/cpp/cppcx/wrl/windows-runtime-cpp-template-library-wrl?branch=live&view=vs-2019)  
+[ComPtr (Smart Pointer) Class (WRL API Documentation)](https://docs.microsoft.com/en-us/cpp/cppcx/wrl/comptr-class?view=vs-2019)  
 [WinRT (C++17)](https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/)  
 
 ## Libraries (#todo)  

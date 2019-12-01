@@ -89,6 +89,8 @@ Raw Pointers (#todo)
 
 ### WinAPI and Windows libraries
 
+[##List of Microsoft Windows application programming interfaces and frameworks (wikipedia)##](https://en.m.wikipedia.org/wiki/List_of_Microsoft_Windows_application_programming_interfaces_and_frameworks?wprov=sfla1)  
+
 [Get Started with Win32 and C++ (Microsoft Docs)](https://docs.microsoft.com/en-gb/windows/win32/direct3ddxgi/d3d10-graphics-reference-dxgi)  
 [theForger's Win32 API Programming Tutorial](http://www.winprog.org/tutorial/start.html)  
 

@@ -108,6 +108,9 @@ Raw Pointers (#todo)
 
 [MFC Desktop Applications (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019)  
 
+[COM API documentation](https://docs.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal)  
+[DXGI API documentation]()  
+
 ## Libraries (#todo)  
 
 [SDL 2.0](https://wiki.libsdl.org)  

@@ -44,6 +44,8 @@
 
 [What are the main disadvantages of Java Server Faces 2.0](https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0)  
 
+[JetBrains Tutorial Reactive Spring](https://blog.jetbrains.com/idea/tag/tutorial-reactive-spring/) [[GitHub full code]](https://github.com/trishagee/s1p-stocks-ui/)  
+
 ## Good Practices  
 
 

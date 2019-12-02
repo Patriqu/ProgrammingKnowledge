@@ -7,6 +7,8 @@
 [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check#tab=Main)  
 [OWASP Dependency Check in practice (Linkedin Learning)](https://www.lynda.com/Software-Development-tutorials/OWASP-Dependency-Check-practice/728398/803486-4.html)  
 
+[CWE CATEGORY: OWASP Top Ten 2004 Category A10 - Insecure Configuration Management](https://cwe.mitre.org/data/definitions/731.html)  
+
 ## Apache Struts 1
 
 [NVD - National Vulnerability Database](https://nvd.nist.gov/view/vuln/search-results?adv_search=true&cves=on&cpe_version=cpe%3A%2Fa%3Aapache%3Astruts%3A1.2.7)  

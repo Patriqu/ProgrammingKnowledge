@@ -5,6 +5,8 @@
 [Java Design Patterns examples](https://github.com/iluwatar/java-design-patterns)  
 [30 seconds of Java - collection of reusable tested code snippets](https://github.com/iluwatar/30-seconds-of-java#table-of-contents)  
 
+[Design patterns for humans](https://roadmap.sh/guides/design-patterns-for-humans)  
+
 ## Books  
 
 [Patterns of Enterprise Application Architecture - Martin Fowler](https://martinfowler.com/books/eaa.html)  

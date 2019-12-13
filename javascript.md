@@ -4,6 +4,8 @@
 
 [Frontend News](https://frontendfront.com)  
 
+[jQuery vs Vanilla JavaScript - Deciding on What to Use](https://www.codementor.io/@brainyfarm/jquery-vs-vanilla-javascript-deciding-on-what-to-use-6b79xdmrv)  
+
 [PWA - Progressive Web Apps (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)  
 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)  
 
@@ -12,6 +14,7 @@
 ### Documentations  
 
 [Plain JavaScript](https://plainjs.com/javascript/)  
+[VanillaJS](http://vanilla-js.com/)  
 [w3Schools](https://www.w3schools.com/jsref/jsref_forin.asp)  
 [jQuery](https://api.jquery.com/)  
 [You might not need jQuery](http://youmightnotneedjquery.com/)  

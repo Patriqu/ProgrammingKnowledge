@@ -1,5 +1,28 @@
 [World Wide Web Consortium (W3C) brings a new language to the Web as WebAssembly becomes a W3C Recommendation](https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en)  
 
+### MAIN  
+
+[Frontend News](https://frontendfront.com)  
+
+[PWA - Progressive Web Apps (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)  
+[Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)  
+
+[Responsible JavaScript - Part 3](https://alistapart.com/article/responsible-javascript-part-3/)  
+
+### Documentations  
+
+[Plain JavaScript](https://plainjs.com/javascript/)  
+[w3Schools](https://www.w3schools.com/jsref/jsref_forin.asp)  
+[jQuery]()  
+
+### Testing  
+
+[Jest - JavaScript Testing Framework](https://jestjs.io/)  
+
+### Code examples & repos  
+
+[PWA VS Code (Visual Studio Marketplace)](https://marketplace.visualstudio.com/items?itemName=mayeedwin.vscode-pwa)  
+
 ### File Upload
 
 [FormData Objects - Mozilla MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)  

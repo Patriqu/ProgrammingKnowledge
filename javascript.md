@@ -1,3 +1,5 @@
+[World Wide Web Consortium (W3C) brings a new language to the Web as WebAssembly becomes a W3C Recommendation](https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en)  
+
 ### File Upload
 
 [FormData Objects - Mozilla MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)  

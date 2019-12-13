@@ -15,6 +15,7 @@
 
 [Plain JavaScript](https://plainjs.com/javascript/)  
 [VanillaJS](http://vanilla-js.com/)  
+[JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [w3Schools](https://www.w3schools.com/jsref/jsref_forin.asp)  
 [jQuery](https://api.jquery.com/)  
 [You might not need jQuery](http://youmightnotneedjquery.com/)  

@@ -13,7 +13,8 @@
 
 [Plain JavaScript](https://plainjs.com/javascript/)  
 [w3Schools](https://www.w3schools.com/jsref/jsref_forin.asp)  
-[jQuery]()  
+[jQuery](https://api.jquery.com/)  
+[You might not need jQuery](http://youmightnotneedjquery.com/)  
 
 ### Testing  
 

@@ -13,3 +13,5 @@
 ## Programming Basics  
 
 [Professor's Frisby Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)  
+
+[Falsehoods programmers believe about time (GitHub)](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)  

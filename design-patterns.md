@@ -21,6 +21,8 @@
 [Architectural Pattern](https://en.wikipedia.org/wiki/Architectural_pattern)  
 [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)  
 
+[Enterprise Integration Patterns (Wikipedia)](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns#The_integration_(messaging)_pattern_language)  
+
 ## Design Patterns  
 
 **RAII (Resource Acquisition Is Initialization)**

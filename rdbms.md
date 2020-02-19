@@ -52,4 +52,8 @@
 
 
 
-## PostgreSQL
+## PostgreSQL  
+
+### Partitioning  
+
+[Table Partitioning - Declarative Partitioning & Implementation using Inheritance [PostgreSQL 12 Docs]](https://www.postgresql.org/docs/current/ddl-partitioning.html)  

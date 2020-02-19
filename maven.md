@@ -1,6 +1,7 @@
 ### Questions  
 
 [How to make one module depend on another module artifact? (StackOverflow)](https://stackoverflow.com/questions/4150180/how-to-make-one-module-depend-on-another-module-artifact)  
+[What is the purpose of Mavens dependency declarations classifier property?](https://stackoverflow.com/questions/20909634/what-is-the-purpose-of-mavens-dependency-declarations-classifier-property)  
 
 ### Problems  
 

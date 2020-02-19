@@ -29,7 +29,8 @@
 [Inheritance](http://www.cplusplus.com/doc/tutorial/inheritance/)  
 [Polymorphism](http://www.cplusplus.com/doc/tutorial/polymorphism/)  
 
-Raw Pointers (#todo)  
+[Raw Pointers (Microsoft Docs - C++ Reference)](https://docs.microsoft.com/en-us/cpp/cpp/raw-pointers?view=vs-2019)  
+[Smart Pointers (Modern C++) (Microsoft Docs - Modern C++ Reference)](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019)  
 
 [get_pointer_safety (C++ Reference)](http://www.cplusplus.com/reference/memory/get_pointer_safety)  
 

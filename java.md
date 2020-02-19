@@ -2,6 +2,8 @@
 
 [How to become a good programmer? 13 tasks you could practice now](https://www.codejava.net/coding/how-to-become-a-good-programmer-13-tasks-you-should-practice-now)  
 
+[Oracle Java Archive Downloads](https://www.oracle.com/java/technologies/oracle-java-archive-downloads.html)  
+
 [Java Magazine - old format](http://www.javamagazine.mozaicreader.com/#&pageSet=0&page=0&contentItem=0)  
 [Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)  
 

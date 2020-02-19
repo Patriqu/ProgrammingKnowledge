@@ -15,3 +15,9 @@
 [Professor's Frisby Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide)  
 
 [Falsehoods programmers believe about time (GitHub)](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)  
+
+## Why hate on OOP?  
+
+https://www.reddit.com/r/AskComputerScience/comments/aarn1e/why_do_alot_of_people_hate_oop/  
+https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/  
+http://wiki.c2.com/?ArgumentsAgainstOop  

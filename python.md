@@ -29,6 +29,10 @@
 
 [Manually raising (throwing) an exception in Python (StackOverflow)](https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python)  
 
+## Articles  
+
+[All the things I hate about Python (medium - Nathan Murphy - Feb 9, 2018)](https://medium.com/@natemurthy/all-the-things-i-hate-about-python-5c5ff5fda95e)  
+
 ## Control Flow  
 
 [Does Python have a ternary conditional operator?](https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator?rq=1)  

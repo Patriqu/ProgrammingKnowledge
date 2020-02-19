@@ -10,6 +10,10 @@
 [The Python Standard Library](https://docs.python.org/3.8/library/index.html)  
 [The Python Tutorial](https://docs.python.org/3.8/tutorial/index.html)  
 
+[Python 3 Readiness - support graph for the 360 most popular Python packages](http://chhantyal.net/py3readiness/)  
+[caniusepython3 - library](https://pypi.org/project/caniusepython3/)  
+[Porting Python 2 Code to Python 3 (Python docs)](https://docs.python.org/3/howto/pyporting.html)  
+
 ## Basics  
 
 [Python Variables, Constants and Literals](https://www.programiz.com/python-programming/variables-constants-literals)  

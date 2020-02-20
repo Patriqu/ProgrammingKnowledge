@@ -21,3 +21,9 @@
 https://www.reddit.com/r/AskComputerScience/comments/aarn1e/why_do_alot_of_people_hate_oop/  
 https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/  
 http://wiki.c2.com/?ArgumentsAgainstOop  
+
+## Future  
+
+[https://dzone.com/articles/top-8-technology-trends-for-2020-and-beyond](https://dzone.com/articles/top-8-technology-trends-for-2020-and-beyond)  
+[The 2020 Java Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)  
+[10 Tools Java Developers Should Learn in 2020](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html)  

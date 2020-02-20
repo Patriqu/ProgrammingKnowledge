@@ -7,6 +7,9 @@
 [Java Magazine - old format](http://www.javamagazine.mozaicreader.com/#&pageSet=0&page=0&contentItem=0)  
 [Java Magazine - new HTML format](https://blogs.oracle.com/javamagazine/issue-archives)  
 
+[The 2020 Java Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)  
+[10 Tools Java Developers Should Learn in 2020](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html)  
+
 [Java Design Patterns - GitHub](https://github.com/iluwatar/java-design-patterns)  
 [Java Design Patterns - List](https://java-design-patterns.com/patterns)  
 
@@ -49,6 +52,8 @@
 [What are the main disadvantages of Java Server Faces 2.0](https://stackoverflow.com/questions/3623911/what-are-the-main-disadvantages-of-java-server-faces-2-0)  
 
 [JetBrains Tutorial Reactive Spring](https://blog.jetbrains.com/idea/tag/tutorial-reactive-spring/) [[GitHub full code]](https://github.com/trishagee/s1p-stocks-ui/)  
+
+[WebAssembly for Java Developers (blog)](http://blog.dmitryalexandrov.net/webassembly-for-java-developers/)  
 
 ## Good Practices  
 

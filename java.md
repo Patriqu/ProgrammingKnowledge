@@ -160,3 +160,7 @@ Jetty
 ## Performance  
 
 ## JVM  
+
+[Understand the OutOfMemoryError Exception](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/memleaks002.html)  
+[Diagnose Leaks in Java Language Code](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/memleaks004.html#CIHCDBJB)  
+[Native Operating System Tools](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr020.html#BABBHHIE)  

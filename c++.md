@@ -41,6 +41,8 @@ C++ 14 Concepts (hides templates - tocheck!)
 
 ## Good Practices  
 
+[The Ultimate Question of Programming, Refactoring, and Everything](https://docviewer.yandex.ru/view/0/?page=1&*=kWDJSh4s7xKbxUAeXpwhyyYYb%2Fh7InVybCI6InlhLWRpc2stcHVibGljOi8vV250SFFLcEc5SHJuQi9kWmZJMlZtcmtqMG5QRENESVlIN0JDNHIvaHVyND0iLCJ0aXRsZSI6IlRoZV9VbHRpbWF0ZV9RdWVzdGlvbl9vZl9Qcm9ncmFtbWluZ18xOV8wNF8yMDE2LnBkZiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMCIsInRzIjoxNTg3MDUwODE1ODI4fQ%3D%3D)  
+
 [Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  
 [Microsoft Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
 
@@ -65,6 +67,10 @@ C++ 14 Concepts (hides templates - tocheck!)
 
 #### Problems  
 [Clang fails to compile C++ (C++ forum)](http://www.cplusplus.com/forum/unices/114261/)  
+
+### Debugging  
+
+[Valgrind - tools to check memory leaks, memory debugging and profilling application](https://valgrind.org/)  
 
 ### Intellisense
 

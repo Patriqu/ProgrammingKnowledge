@@ -34,6 +34,11 @@
 
 [get_pointer_safety (C++ Reference)](http://www.cplusplus.com/reference/memory/get_pointer_safety)  
 
+## Modern C++  
+
+Modules  
+C++ 14 Concepts (hides templates - tocheck!)  
+
 ## Good Practices  
 
 [Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  

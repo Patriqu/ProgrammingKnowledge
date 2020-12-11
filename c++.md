@@ -20,6 +20,12 @@
 
 [Stringizing operator (#) (C++ Preprocessor doc)](https://docs.microsoft.com/en-us/cpp/preprocessor/stringizing-operator-hash?view=vs-2019)  
 
+## Books  
+
+- [Modern C++ Programming Cookbook - Second Edition (Marius Bancila, Packt Publishing 2014)](https://www.amazon.com/Modern-Programming-Cookbook-language-standard-ebook/dp/B08GM9KKMR)
+- [Effective Modern C++ (Scott Meyers, O'Reilly 2020)](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
+- [The C++ Programming Language, 4th Edition (Bjarne Stroustrup, Addison-Wesley Professional 2013)](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
+
 ## C++ Basics  
 
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  

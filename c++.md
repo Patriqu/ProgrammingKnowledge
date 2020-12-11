@@ -145,3 +145,27 @@ C++ 14 Concepts (hides templates - tocheck!)
 ## Forum discussions  
 
 [UML class diagram to code translation](http://www.cplusplus.com/forum/beginner/265295/)  
+
+## Things to Remember  
+
+### Template and Auto Type Deduction
+
+- There are three cases of template type deduction:
+
+  - ParamType is a pointer or reference type, but not a universal reference. (Universal references are described in Item 24. At this point, all you need to know is that they exist and that they’re not the same as lvalue references or rvalue references.)
+
+  - ParamType is a universal reference.
+
+  - ParamType is neither a pointer nor a reference.
+
+- During template type deduction, arguments that are references are treated as non-references, i.e., their reference-ness is ignored.
+
+- When deducing types for universal reference parameters, lvalue arguments get special treatment.
+
+- When deducing types for by-value parameters, const and/or volatile arguments are treated as non-const and non-volatile.
+
+- During template type deduction, arguments that are array or function names decay to pointers, unless they’re used to initialize references.
+
+- auto type deduction is usually the same as template type deduction, but auto type deduction assumes that a braced initializer represents a std::initializer_list, and template type deduction doesn’t.
+
+- auto in a function return type or a lambda parameter implies template type deduction, not auto type deduction.

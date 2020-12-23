@@ -154,6 +154,16 @@ C++ 14 Concepts (hides templates - tocheck!)
 
 ## Things to Remember  
 
+### Concepts  
+
+- lvalue vs rvalue
+- object lifetime
+- scope
+- implicit conversion
+- compile time vs runtime
+- resource acquisition is initialization (RAII)
+- memory (resource) management
+
 ### Template and Auto Type Deduction
 
 - There are three cases of template type deduction:

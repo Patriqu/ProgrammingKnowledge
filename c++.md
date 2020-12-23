@@ -12,6 +12,8 @@
 
 [Microsoft Developer Blogs](https://devblogs.microsoft.com/)  
 
+[Compiler Explorer Online](https://godbolt.org/)  
+
 ### C++ Microsoft Documentation  
 
 [C/C++ preprocessor reference](https://docs.microsoft.com/en-us/cpp/preprocessor/c-cpp-preprocessor-reference?view=vs-2019)  

@@ -74,6 +74,8 @@ C++ 14 Concepts (hides templates - tocheck!)
 
 [Clang/LLVM Support in Visual Studio](https://devblogs.microsoft.com/cppblog/clang-llvm-support-in-visual-studio/)  
 
+[ISO C++ Support in Clang](https://clang.llvm.org/cxx_status.html)  
+
 ***_Problems_***  
 [Clang fails to compile C++ (C++ forum)](http://www.cplusplus.com/forum/unices/114261/)  
 

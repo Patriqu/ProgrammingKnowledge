@@ -45,8 +45,11 @@
 
 ## Modern C++  
 
-Modules  
-C++ 14 Concepts (hides templates - tocheck!)  
+[Modules (C++20)](https://en.cppreference.com/w/cpp/language/modules)  
+[Concepts (C++20)](https://en.cppreference.com/w/cpp/language/constraints) [[1]](https://en.cppreference.com/w/cpp/concepts)  
+
+[MSVC constexpr function 'xyz' cannot result in a constant expression](https://stackoverflow.com/questions/53888313/msvc-constexpr-function-xyz-cannot-result-in-a-constant-expression)  
+[constexpr - function cannot be used in a constant expression](https://stackoverflow.com/questions/36497632/constexpr-function-cannot-be-used-in-a-constant-expression?rq=1)  
 
 ## Good Practices  
 

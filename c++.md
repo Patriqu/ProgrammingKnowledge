@@ -60,6 +60,7 @@
 
 [Google C++ Code Style Guidelines](https://google.github.io/styleguide/cppguide.html)  
 [Microsoft Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)  
+[C++ Best Practices by Jason Turner](https://github.com/lefticus/cppbestpractices)  
 
 [Why does Microsoft use the “g_” naming convention with its DirectX10 pipeline variables? (StackOverflow)](https://stackoverflow.com/questions/5495019/why-does-microsoft-use-the-g-naming-convention-with-its-directx10-pipeline-va)  
 [Making Wrong Code Look Wrong (Joel On Software Blog)](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/)  

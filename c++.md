@@ -30,6 +30,7 @@
 
 ## C++ Basics  
 
+[Basic concepts](https://en.cppreference.com/w/cpp/language/basic_concepts)  
 [Preprocessor Directives](http://www.cplusplus.com/doc/tutorial/preprocessor/)  
 [Implementation defined behavior control (pragmas)](https://en.cppreference.com/w/cpp/preprocessor/impl)  
 [Macros](http://www.cplusplus.com/doc/tutorial/preprocessor/)  
@@ -37,6 +38,8 @@
 [Classes](http://www.cplusplus.com/doc/tutorial/classes/)  
 [Inheritance](http://www.cplusplus.com/doc/tutorial/inheritance/)  
 [Polymorphism](http://www.cplusplus.com/doc/tutorial/polymorphism/)  
+
+[Non-static data members](https://en.cppreference.com/w/cpp/language/data_members)  
 
 [Raw Pointers (Microsoft Docs - C++ Reference)](https://docs.microsoft.com/en-us/cpp/cpp/raw-pointers?view=vs-2019)  
 [Smart Pointers (Modern C++) (Microsoft Docs - Modern C++ Reference)](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp?view=vs-2019)  
@@ -145,7 +148,7 @@
 [ComPtr (Smart Pointer) Class (WRL API Documentation)](https://docs.microsoft.com/en-us/cpp/cppcx/wrl/comptr-class?view=vs-2019)  
 [WinRT (C++17)](https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/)  
 
-## Libraries (#todo)  
+## Libraries  
 
 [SDL 2.0](https://wiki.libsdl.org)  
 

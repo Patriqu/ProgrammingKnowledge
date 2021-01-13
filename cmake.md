@@ -1,9 +1,20 @@
 ## CMake Documentation  
 
+[CMake 3.19 Documentation - Introduction](https://cmake.org/cmake/help/v3.19/)  
+
+[cmake cli command](https://cmake.org/cmake/help/latest/manual/cmake.1.html#manual:cmake(1))  
 [project](https://cmake.org/cmake/help/latest/command/project.html)  
 [cmake-generator-expressions](https://cmake.org/cmake/help/v3.0/manual/cmake-generator-expressions.7.html)  
 [add_executable](https://cmake.org/cmake/help/v3.8/command/add_executable.html)  
 [target_link_libraries](https://cmake.org/cmake/help/latest/command/target_link_libraries.html)  
+
+## Tutorials  
+
+[CMake discourse forum](https://discourse.cmake.org/)  
+
+[CMake Official Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)  
+
+[Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)  
 
 ## Troubleshooting  
 
@@ -34,6 +45,10 @@
 [Copy all files with given extension to output directory using CMake](https://stackoverflow.com/questions/24311402/copy-all-files-with-given-extension-to-output-directory-using-cmake)  
 [Get file of current macro file in CMake [duplicate]](https://stackoverflow.com/questions/50860172/get-file-of-current-macro-file-in-cmake)  
 [How do I make CMake output into a 'bin' dir?](https://stackoverflow.com/questions/6594796/how-do-i-make-cmake-output-into-a-bin-dir)  
+
+[Linking GLEW with CMake](https://stackoverflow.com/questions/27472813/linking-glew-with-cmake)  
+
+[How to set up googleTest as a shared library on Linux](https://stackoverflow.com/questions/13513905/how-to-set-up-googletest-as-a-shared-library-on-linux)  
 
 ### Other sites  
 

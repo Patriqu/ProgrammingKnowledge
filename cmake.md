@@ -16,6 +16,9 @@
 
 [Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)  
 
+[Using GitHub Actions with C++ and CMake](https://cristianadam.eu/20191222/using-github-actions-with-c-plus-plus-and-cmake/)  
+[Speeding up C++ GitHub Actions using ccache with CMake](https://cristianadam.eu/20200113/speeding-up-c-plus-plus-github-actions-using-ccache/)  
+
 ## Troubleshooting  
 
 ### StackOverflow  

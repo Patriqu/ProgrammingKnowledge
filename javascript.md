@@ -11,6 +11,9 @@
 
 [Responsible JavaScript - Part 3](https://alistapart.com/article/responsible-javascript-part-3/)  
 
+### Browser editors  
+[CodePen](https://codepen.io/)  
+
 ### Documentations  
 
 [Plain JavaScript](https://plainjs.com/javascript/)  

@@ -141,6 +141,7 @@
 [Using SAL Annotations to Reduce C/C++ Code Defects (Microsoft Docs)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2013/ms182032(v=vs.120)?redirectedfrom=MSDN)  
 
 [MFC Desktop Applications (Microsoft Docs)](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=vs-2019)  
+[Component Object Model (Wikipedia)](https://en.wikipedia.org/wiki/Component_Object_Model)  
 [ATL COM Desktop Components](https://docs.microsoft.com/en-us/cpp/atl/atl-com-desktop-components?view=msvc-160)  
 
 [COM API documentation](https://docs.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal)  

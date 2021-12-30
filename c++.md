@@ -165,6 +165,10 @@
 
 [UML class diagram to code translation](http://www.cplusplus.com/forum/beginner/265295/)  
 
+## Other  
+
+[Portable Executable (PE) - Windows file format (Wikipedia)](https://en.wikipedia.org/wiki/Portable_Executable)  
+
 ## Things to Remember  
 
 ### Concepts  

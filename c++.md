@@ -168,6 +168,7 @@
 ## Other  
 
 [Portable Executable (PE) - Windows file format (Wikipedia)](https://en.wikipedia.org/wiki/Portable_Executable)  
+[pdb files as linker input (Microsoft Linker Docs)](https://docs.microsoft.com/en-us/cpp/build/reference/dot-pdb-files-as-linker-input?view=msvc-170)  
 
 ## Things to Remember  
 

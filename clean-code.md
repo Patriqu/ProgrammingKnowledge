@@ -16,6 +16,9 @@ SOLID (Single Responsibility, Open-Closed, Liskov's Substitution, Interface Segr
 [CI (Continuous Integration)](https://en.wikipedia.org/wiki/Continuous_integration)  
 [CD (Continuous Delivery)](https://en.wikipedia.org/wiki/Continuous_delivery)  
 
+## Problems  
+[Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell)  
+
 ## TO READ  
 
 https://dev.to/codemouse92/clean-dry-solid-spaghetti-1lgm

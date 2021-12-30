@@ -34,5 +34,8 @@
 
 ## Pegasus  
 
+[Mobile Verification Toolkit - consensual forensic analysis of Android and iOS devices, for the purpose of identifying traces of compromise](https://docs.mvt.re/en/latest/)  
+[Mobile Verification Toolkit - GitHub repository](https://github.com/mvt-project/mvt)  
+
 [Morocco: Human Rights Defenders Targeted with NSO Group’s Spyware](https://www.amnesty.org/en/latest/research/2019/10/Morocco-Human-Rights-Defenders-Targeted-with-NSO-Groups-Spyware/)  
 [Keep Calm and (Don’t) Enable Macros A New Threat Actor Targets UAE Dissidents](https://citizenlab.ca/2016/05/stealth-falcon/)  
